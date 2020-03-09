@@ -67,5 +67,5 @@ proc1=Proc.new{|x|x*x}
 pr=proc{|x|x*2}
 l=lambda{|y| y*4}
 l2=lambda{|x, y| x+y}
-p l2.call(2, 5)
+p l2.call(2, 8)
 
