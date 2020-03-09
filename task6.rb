@@ -77,7 +77,7 @@ class RubyGreeter<Greeter
 
      DD=3   
 end
-f=RubyGreeter.new("olya", 3)
+f=RubyGreeter.new("olya", 4)
 f.say_hello
 #Greeter.greet
 f2=RubyGreeter.new("ivan", 4)
